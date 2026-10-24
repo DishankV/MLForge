@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Test and tooling output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local ML artifacts and datasets
+ml/artifacts/*
+ml/data/*
