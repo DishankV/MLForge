@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.git/
+.vscode/
+tests/
+ml/data/
+ml/training/
+ml/evaluation/
+docs/
+*.pyc
