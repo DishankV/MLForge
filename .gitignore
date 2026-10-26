@@ -17,3 +17,4 @@ htmlcov/
 # Local ML artifacts and datasets
 ml/artifacts/*
 ml/data/*
+db.sqlite3
